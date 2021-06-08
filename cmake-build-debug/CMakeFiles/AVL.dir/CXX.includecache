@@ -6,19 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.cpp
-Avl.h
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/Avl.cpp
 iostream
 -
 
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/Avl.h
 
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/main.cpp
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/main.cpp
 iostream
 -
 Avl.h
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/Avl.h
 Avl.cpp
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.cpp
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/Avl.cpp
 

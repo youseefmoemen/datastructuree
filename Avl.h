@@ -17,7 +17,9 @@ public:
     void insert(int, Avl* &);
     int balance();
     int getHeight();
-    void traverse();
+    void preOrder();
+    void inOrder();
+    void postOrder();
     Avl* rightR(Avl*);
     Avl* leftR(Avl*);
 };

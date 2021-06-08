@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/FCAI/#2/S2/DataStructure/Ags/AVL/main.cpp" "D:/FCAI/#2/S2/DataStructure/Ags/AVL/cmake-build-debug/CMakeFiles/AVL.dir/main.cpp.obj"
+  "C:/Users/Eng. Alameen/CLionProjects/datastructuree/main.cpp" "C:/Users/Eng. Alameen/CLionProjects/datastructuree/cmake-build-debug/CMakeFiles/AVL.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

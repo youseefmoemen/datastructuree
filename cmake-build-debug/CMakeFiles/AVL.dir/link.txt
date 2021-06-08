@@ -1,3 +1,3 @@
-"C:\Users\Youseef Mo'men\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AVL.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\AVL.dir/objects.a @CMakeFiles\AVL.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\AVL.dir/objects.a -Wl,--no-whole-archive -o AVL.exe -Wl,--out-implib,libAVL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AVL.dir\linklibs.rsp
+"C:\Users\Eng. Alameen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AVL.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\AVL.dir/objects.a @CMakeFiles\AVL.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AVL.dir/objects.a -Wl,--no-whole-archive -o AVL.exe -Wl,--out-implib,libAVL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AVL.dir\linklibs.rsp

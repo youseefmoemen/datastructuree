@@ -1,3 +1,3 @@
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/cmake-build-debug/CMakeFiles/AVL.dir
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/FCAI/#2/S2/DataStructure/Ags/AVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/cmake-build-debug/CMakeFiles/AVL.dir
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eng. Alameen/CLionProjects/datastructuree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
