@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.cpp
+Avl.h
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+iostream
+-
+
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/main.cpp
+iostream
+-
+Avl.h
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.h
+Avl.cpp
+D:/FCAI/#2/S2/DataStructure/Ags/AVL/Avl.cpp
+
